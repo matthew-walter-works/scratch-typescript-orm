@@ -1,6 +1,9 @@
 # Tutorial
 https://javascript.plainenglish.io/typeorm-tutorial-for-beginner-crud-in-express-js-typescript-b447f1fd7622
 
+## TSOA
+https://github.com/lukeautry/tsoa
+
 ## ORM
 https://typeorm.io/#/
 
