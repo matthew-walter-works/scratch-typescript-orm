@@ -40,5 +40,10 @@ function sample(arg: string) {
 }
 ```
 
+## IOC w/ TSOA
+https://tsoa-community.github.io/docs/di.html#inversifyjs
+https://tsoa-community.github.io/docs/di.html#tsyringe
+https://tsoa-community.github.io/docs/di.html#typescript-ioc
+
 ## Creating TypeScript App
 https://www.npmjs.com/package/create-express-typescript-application
